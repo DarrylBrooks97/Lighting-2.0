@@ -1,1 +1,1 @@
-# Lighting-2.0
+The Lighting 2.0 is a system composed of multiple lighting options that the user can chose from depending on his or her preference. We see these light options within many electronic devices from toys to even the interior lighting of a vehicle. The coolest part of this project was that it was my first time controlling the system wirelessly through infrared signals.
