@@ -132,7 +132,7 @@ void inputReceived()
 
     case 0xFF02FD:  //Next
       option++;
-      if (option > 5)
+      if (option > 4)
         option = 0;
       break;
 
